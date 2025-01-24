@@ -121,8 +121,8 @@
          <tr>
             <td><img src="logos/GitHub.png" alt="Discord Logo" width="50"></td>
             <td><img src="logos/Discord.png" alt="Discord Logo" width="50"></td>
-            <td><img src="logos/WhatsApp.png" alt="WhatsApp Logo" width="50"></td>
             <td><img src="logos/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
+            <td><img src="logos/WhatsApp.png" alt="WhatsApp Logo" width="50"></td>
             <td><img src="logos/X.png" alt="Twitter Logo" width="50"></td>
             <td><img src="logos/Instagram.png" alt="Instagram Logo" width="50"></td>
         </tr>
