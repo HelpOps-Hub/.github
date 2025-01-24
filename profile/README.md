@@ -114,7 +114,7 @@
 </div><hr>
 
 <div align="center">
-  <h2>Connect with DevDisplay Organization <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Raising%20Hands.webp" alt="Raising Hands" width="25" height="25" /></h2>
+  <h2>Connect with HelpOps-Hub Socials <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Raising%20Hands.webp" alt="Raising Hands" width="25" height="25" /></h2>
 </div>
 <table align="center">
      <thead>
