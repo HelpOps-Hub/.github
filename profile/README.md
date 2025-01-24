@@ -16,12 +16,16 @@
 # Welcome to HelpOps-Hub 👋
 **HelpOps-Hub** is an open-source DevOps platform designed to connect professionals, provide insightful resources, and enable collaborative problem-solving. It serves as a centralized Q&A hub where developers, engineers, and teams can share knowledge, troubleshoot issues, and contribute to an ever-growing knowledge base of DevOps topics.
 
+<br/>
+
+<div align="center">
+ 
 <details>
     <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Click here to explore your ultimate hub for everything DevOps! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /></summary>
 <div align="center">     
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="150" height="150" /> <br>
 
-| **⚡** | **HelpOps-Hub: Empowering DevOps Enthusiasts Worldwide**     |
+| **⚡** | **The Hub**     |
 | ------ | ----------------------------------------------------------- |
 | 🔧     | The hub to troubleshoot DevOps challenges with ease and precision |
 | 🤝     | The hub to connect with passionate DevOps professionals and enthusiasts |
@@ -40,6 +44,76 @@
 
 </div>
 </details>
+</div><hr>
+
+<div align="center">
+<h1 align="center">Supported By <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /></h1>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.microsoft.com/en-us/startups">
+        <img src="logos/MicrosoftForStartups.png" alt="Microsoft for Startups Logo" width="140">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://msme.gov.in/">
+        <img src="logos/MSME.png" alt="MSME Logo" width="140">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://cloud.google.com/startup">
+        <img src="logos/GoogleForStartups.png" alt="Google For Startups Logo" width="140">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://helpopshub.vercel.app/">
+        <img src="logos/Vercel.png" alt="Vercel Logo" width="140">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.digitalocean.com/">
+        <img src="logos/DigitalOcean.png" alt="Digital Ocean Logo" width="140">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.producthunt.com/products/helpops-hub">
+        <img src="logos/ProductHunt.png" alt="Product Hunt Logo" width="140">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.gitbook.com/">
+        <img src="logos/GitBookLight_1.png" alt="GitBook Logo" width="140">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mdazfar2/HelpOps-Hub">
+        <img src="logos/meltcd.png" alt="Meltcd Logo" width="140">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.notion.so/startups">
+        <img src="logos/Notion.png" alt="Notion Logo" width="140">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://peerlist.io/mdazfar2/project/helpopshub">
+        <img src="logos/Peerlist.png" alt="Peerlist Logo" width="140">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://trendshift.io/repositories/12132" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12132" alt="DS4SD%2Fdocling | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
+<a href="https://www.producthunt.com/products/helpops-hub?utm_source=badge-top-post-topic-badge&utm_medium=badge#helpops-hub" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-topic-badge.svg?post_id=445392&theme=neutral&period=weekly&topic_id=267" alt="HelpOps-Hub&#0032;environment&#0032;manager&#0032;that&#0032;makes&#0032;you&#0032;2x&#0032;more&#0032;productive | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/products/helpops-hub?utm_source=badge-top-post-topic-badge&utm_medium=badge#helpops-hub" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=594879&theme=neutral" alt="DevDisplay&#0032;open&#0032;source&#0032;tech&#0032;platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/products/helpops-hub?utm_source=badge-top-post-topic-badge&utm_medium=badge#helpops-hub" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=445392&theme=neutral&period=daily" alt="DevDisplay&#0032;environment&#0032;manager&#0032;that&#0032;makes&#0032;you&#0032;2x&#0032;more&#0032;productive | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+</div><hr>
+
+
 
 
 <!-- Outreach section -->
