@@ -113,9 +113,34 @@
 
 </div><hr>
 
+<div align="center">
+  <h2>Connect with DevDisplay Organization <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Raising%20Hands.webp" alt="Raising Hands" width="25" height="25" /></h2>
+</div>
+<table align="center">
+     <thead>
+         <tr>
+            <td><img src="logos/GitHub.png" alt="Discord Logo" width="50"></td>
+            <td><img src="logos/Discord.png" alt="Discord Logo" width="50"></td>
+            <td><img src="logos/WhatsApp.png" alt="WhatsApp Logo" width="50"></td>
+            <td><img src="logos/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
+            <td><img src="logos/X.png" alt="Twitter Logo" width="50"></td>
+            <td><img src="logos/Instagram.png" alt="Instagram Logo" width="50"></td>
+        </tr>
+    </thead>
+     <tbody align="center">
+        <tr border: 2px;>
+            <td><b><a href="https://github.com/HelpOps-Hub"> GitHub </a></b></td>
+            <td><b><a href="https://discord.gg/UWTrRhqywt"> Discord </a></b></td>
+            <td><b><a href="https://www.linkedin.com/company/helpops-hub/"> Linkedin </a></b></td>
+            <td><b><a href="#"> WA </a></b></td>
+            <td><b><a href="https://x.com/Helpopshub"> Twitter </a></b></td>
+            <td><b><a href="https://www.instagram.com/HelpOpshub/"> Insta. </a></b></td>
+        </tr>
+     </tbody>
+</table></div><hr>
 
 
-
+<br/>
 <!-- Outreach section -->
 
 ## 💪 Outreach
