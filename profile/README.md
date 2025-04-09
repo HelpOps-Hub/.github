@@ -1,4 +1,4 @@
-![HelpOps cover](https://github.com/mdazfar2/HelpOps-Hub/assets/100375390/c6d22673-5dd4-482b-8c5c-e84a50cd0ccd)
+F![HelpOps cover](https://github.com/mdazfar2/HelpOps-Hub/assets/100375390/c6d22673-5dd4-482b-8c5c-e84a50cd0ccd)
 
 <p align="center">
  <a href="https://github.com/mdazfar2/HelpOps-Hub"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
@@ -132,7 +132,7 @@
             <td><b><a href="https://github.com/HelpOps-Hub"> GitHub </a></b></td>
             <td><b><a href="https://discord.gg/UWTrRhqywt"> Discord </a></b></td>
             <td><b><a href="https://www.linkedin.com/company/helpops-hub/"> Linkedin </a></b></td>
-            <td><b><a href="#"> WA </a></b></td>
+            <td><b><a href="https://chat.whatsapp.com/JNvTLSHd4XZ2p5nCjPI981"> WA </a></b></td>
             <td><b><a href="https://x.com/Helpopshub"> Twitter </a></b></td>
             <td><b><a href="https://www.instagram.com/HelpOpshub/"> Insta. </a></b></td>
         </tr>
